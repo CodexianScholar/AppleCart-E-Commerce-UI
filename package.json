@@ -1,0 +1,27 @@
+{
+  "name": "applecart-e-commerce-ui",
+  "version": "1.0.0",
+  "description": "e-commerce UI with with HTML, SCSS, Vite and Javascript",
+  "homepage": "https://github.com/CodexianScholar/AppleCart-E-Commerce-UI#readme",
+  "bugs": {
+    "url": "https://github.com/CodexianScholar/AppleCart-E-Commerce-UI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodexianScholar/AppleCart-E-Commerce-UI.git"
+  },
+  "license": "MIT",
+  "author": "Prince O'Hara",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "sass": "^1.97.1",
+    "vite": "^7.3.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.1.0"
+  }
+}

@@ -1,6 +1,14 @@
-@import "./cart.scss";
-@import "./checkout.scss";
-@import "./footer.scss";
-@import "./header.scss";
-@import "./store.scss";
-@import "./toast.scss";
+body {
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: blue;
+}
+
+@import "cart";
+@import "checkout";
+@import "footer";
+@import "header";
+@import "store";
+@import "toast";

@@ -11,5 +11,11 @@ export default defineConfig({
     fs: {
       strict: true,
     },
+    watch: {
+      usePolling: true,
+    },
+  },
+  css: {
+    devSourcemap: true,
   },
 });
